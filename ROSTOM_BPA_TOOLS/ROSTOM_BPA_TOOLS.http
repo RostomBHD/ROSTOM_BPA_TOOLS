@@ -1,0 +1,6 @@
+@ROSTOM_BPA_TOOLS_HostAddress = http://localhost:5090
+
+GET {{ROSTOM_BPA_TOOLS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
