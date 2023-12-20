@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ROSTOM_BPA_TOOLS.props" />
+</Project>
