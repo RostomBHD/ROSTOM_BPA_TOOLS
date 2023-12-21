@@ -7,7 +7,7 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
-namespace ROSTOM_BPA_TOOLS.Magento
+namespace ROSTOM_BPA_TOOLS.Connectors
 {
 
 
